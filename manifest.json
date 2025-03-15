@@ -1,7 +1,7 @@
 {
   "visualization": {
     "id": "custom_table_modal",
-    "label": "Custom Table with Floating Modal",
+    "label": "Custom Table with Floating modal",
     "description": "A table that opens a floating modal when clicked",
     "script": "https://your-hosted-link/custom_viz.js",
     "thumbnail": "https://your-hosted-link/thumbnail.png",
